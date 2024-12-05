@@ -1,0 +1,7 @@
+{
+    "retry" : "Retry",
+    "empty_data" : "Empty data",
+    "connection_error" : "Connection error",
+    "connection_timeout" : "Connection timeout",
+    "empty_response" : "Empty response"
+}
